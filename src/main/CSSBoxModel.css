@@ -41,6 +41,7 @@ as a demonstration and complete the styling for the .pizza class and individual 
 #pizza2 {
 
     /* TODO: Make the content color red - this is the word "Pepperoni" */
+    color: red;
 
     background-color: wheat;
 
